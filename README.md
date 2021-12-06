@@ -178,3 +178,9 @@ https://www.youtube.com/watch?v=0uG0B5HqiuA
 
 Docu de Laravel:
 https://laravel.com/docs/8.x/scheduling
+
+Laravel jobs: configuracion de colas y jobs:
+
+https://onlinecode.org/laravel-7-send-bulk-mail-in-background-using-queue/
+
+https://dokov.bg/laravel-loves-cpanel
